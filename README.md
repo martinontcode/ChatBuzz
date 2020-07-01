@@ -17,10 +17,17 @@ All features are broken into seperate components, data fetching is done by injec
 ![Schema Picture](https://i.imgur.com/tRTxda3.png)
 
 ## Requirements
-* Angular 10
+* Angular@10
+* Bootstrap@4.5.0
+* jQuery@3.5.1
+
+### Install dependencies
+```sh
+npm install --save bootstrap jquery
+```
 
 ## Dev Stack
-![HTML5](https://img.shields.io/badge/HTML-5-green)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-4.0.0-green)  ![JS](https://img.shields.io/badge/Javascript-green)  ![AngularJS](https://img.shields.io/badge/AngularJS-green)
+![HTML5](https://img.shields.io/badge/HTML-5-green)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.0-green)  ![JS](https://img.shields.io/badge/Javascript-green)  ![AngularJS](https://img.shields.io/badge/AngularJS-green)
 
 ## Environment link(s)
 * Development (Azure): [Placeholder](#)
